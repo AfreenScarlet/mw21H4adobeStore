@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/AfreenScarlet/mw21H4adobeStore/
+    type: markup
+
+folders:
+  /products/: /products/default
